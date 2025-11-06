@@ -1,1 +1,10 @@
-
+{
+  "name": "pdf-translator-backend",
+  "version": "1.0.0",
+  "description": "PDF Translator with ChatGPT API",
+  "main": "api/translate.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
